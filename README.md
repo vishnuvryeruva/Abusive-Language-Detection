@@ -4,3 +4,4 @@ Decoding Abusive language detection from social media comments using deep learni
 # get an overiew of how the model is predicting and it's back story [here](https://medium.com/@vishnuvardhanreddy.yeruva/decoding-abusive-language-detection-from-social-media-comments-using-deep-learning-approaches-7921a76054df)
 # get the source code from [here](https://github.com/shaheerakr/roman-urdu-abusive-comment-detector)
 # [PPT](https://www.slideshare.net/VishnuVardhanReddyYe1/abusive-language-detectionpptx)
+# [Video](https://youtu.be/dZayryfMWLk)
